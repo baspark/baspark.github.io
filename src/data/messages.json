@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Anscombe's Quartet & Data Visualization",
+    "content": "Never rely solely on summary statistics like mean or variance. Anscombe's Quartet proves that four distinct datasets can share identical statistical properties while exhibiting radically different distributions when graphed. Always visualize your data before drawing analytical conclusions."
+  },
+  {
+    "id": 2,
+    "title": "The Core Competency Paradox",
+    "content": "A firm's greatest strength can easily become its ultimate liability. Core capabilities often rigidify into core rigidities when market conditions shift unexpectedly. True strategic resilience requires continuous micro-experimentation, keeping organizational knowledge fluid rather than static."
+  },
+  {
+    "id": 3,
+    "title": "WACC vs. Project Risk Profiling",
+    "content": "Using a firm's corporate Weighted Average Cost of Capital (WACC) to evaluate every single new investment is a dangerous systemic error. High-risk projects must be penalized with a higher hurdle rate, while low-risk projects should be evaluated using lower discount rates to prevent misallocating capital."
+  },
+  {
+    "id": 4,
+    "title": "Type I vs. Type II Errors in Product Discovery",
+    "content": "In A/B testing, a Type I error launches a feature that doesn't actually work, while a Type II error shelves a feature that could have driven massive growth. Balance your significance thresholds based on the real-world cost of a false positive versus a missed market opportunity."
+  },
+  {
+    "id": 5,
+    "title": "The Strategic Inertia of Kodak",
+    "content": "Kodak did not fail because they missed the invention of digital photography; their own engineer created the first digital camera in 1975. They failed because their high-margin film business created massive corporate blind spots, making them refuse to cannibalize their legacy revenue models until it was too late."
+  },
+  {
+    "id": 6,
+    "title": "Economic Substance Doctrine",
+    "content": "Tax optimization strategies must always maintain a valid business purpose beyond merely lowering tax liability. Under the legal Economic Substance Doctrine, a transaction can be entirely disallowed by auditors if it lacks an independent, meaningful economic purpose outside of tax reduction."
+  },
+  {
+    "id": 7,
+    "title": "Goodhart's Law in Performance Management",
+    "content": "When a performance metric becomes a proxy target, it ceases to be a good metric. Forcing strict quotas on software features created or support tickets closed inevitably incentivizes employees to optimize for volume over quality, entirely breaking organizational value creation."
+  },
+  {
+    "id": 8,
+    "title": "The Endowment Effect in M&A Valuation",
+    "content": "Acquiring companies systematically overpay because they anchor their valuations to sunk costs and emotional attachment to 'transformational deals.' Independent valuators consistently discover the acquired company is worth 20-30% less than what was negotiated—a classic case of the endowment effect distorting rational pricing."
+  },
+  {
+    "id": 9,
+    "title": "Hypothesis Testing in Market Research",
+    "content": "Confirmation bias destroys market research validity. Teams unconsciously design surveys and focus groups to validate predetermined hypotheses rather than challenge them. Truly useful research requires adversarial testing: actively seek data that contradicts your assumptions."
+  },
+  {
+    "id": 10,
+    "title": "The Sarbanes-Oxley Section 404 Trap",
+    "content": "Excessive internal control documentation creates compliance theater rather than actual risk mitigation. Companies spending millions on SOX compliance often discover the real operational failures hide in processes nobody thought to audit because they were considered 'too obvious' to scrutinize."
+  },
+  {
+    "id": 11,
+    "title": "Attribution Bias in Financial Analysis",
+    "content": "Analysts overweight internal factors (management skill) while underweighting external ones (industry tailwinds, competitor stumbles) when explaining corporate performance. This cognitive error leads to catastrophic investment misjudgments and inflated expectations for leadership transitions."
+  },
+  {
+    "id": 12,
+    "title": "The Certainty Illusion in Forecasting",
+    "content": "Finance teams create decade-long strategic projections with false precision, claiming 8.3% annual growth when they should be thinking in ranges: 5-11% depending on macro scenarios. Accepting forecast uncertainty actually improves decision-making more than false precision ever could."
+  },
+  {
+    "id": 13,
+    "title": "Porter's Five Forces vs. Dynamic Markets",
+    "content": "Porter's Five Forces remains useful for static industry analysis but catastrophically fails in disrupted markets. Platform businesses, network effects, and zero-marginal-cost dynamics reshape competitive power in ways the Five Forces framework cannot capture. Update your mental models continuously."
+  },
+  {
+    "id": 14,
+    "title": "The NPV Illusion Under Uncertainty",
+    "content": "Traditional Net Present Value calculations assume perfect foresight about future cash flows. Real strategic value often lies in option value and flexibility—the ability to pivot, abandon, or scale based on new information. Underestimating embedded optionality destroys valuations."
+  },
+  {
+    "id": 15,
+    "title": "Survivorship Bias in Competitive Analysis",
+    "content": "Studying successful competitors teaches you almost nothing useful. You're learning from the winners who made risky bets that happened to work, but you're ignoring the hundred failed companies who made identical bets and lost. Analyze failures, not just winners."
+  },
+  {
+    "id": 16,
+    "title": "The 80/20 Rule Misapplication",
+    "content": "Pareto's principle—80% of results from 20% of effort—is often inverted in practice. Teams obsess over the 20% that's easy to measure and quantify while ignoring the 80% of value creation that's harder to track. Question which activities truly drive outcomes."
+  },
+  {
+    "id": 17,
+    "title": "Illusion of Control in Budget Forecasting",
+    "content": "Finance leaders overestimate their ability to forecast next year's budget with precision, creating rigid spending plans that become obsolete within months. Agile allocation frameworks outperform rigid annual budgets because they acknowledge inherent market unpredictability."
+  },
+  {
+    "id": 18,
+    "title": "The Anchoring Trap in Salary Negotiations",
+    "content": "The first number mentioned in any negotiation—whether salary, contract price, or acquisition bid—becomes the invisible anchor that constrains all subsequent offers. Understanding this principle lets you control outcomes by strategically setting the initial anchor point."
+  },
+  {
+    "id": 19,
+    "title": "Data Aggregation & Simpson's Paradox",
+    "content": "Trends that exist in disaggregated data can completely reverse when data is aggregated. A product line might be performing worse than competitors in every single demographic segment, yet appear superior when all segments are pooled together. Always disaggregate before concluding."
+  },
+  {
+    "id": 20,
+    "title": "The Dunning-Kruger Effect in Strategic Planning",
+    "content": "Teams with limited analytical experience often express maximum confidence in flawed strategic plans, while true experts hedge their forecasts with appropriate uncertainty. Recognize that high confidence from non-experts should lower your trust, not increase it."
+  }
+]
