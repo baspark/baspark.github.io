@@ -26,261 +26,241 @@
   },
   {
     "id": 6,
-    "title": "Economic Substance Doctrine",
-    "content": "Tax optimization strategies must always maintain a valid business purpose beyond merely lowering tax liability. Under the legal Economic Substance Doctrine, a transaction can be entirely disallowed by auditors if it lacks an independent, meaningful economic purpose outside of tax reduction."
-  },
-  {
-    "id": 7,
     "title": "Goodhart's Law in Performance Management",
     "content": "When a performance metric becomes a proxy target, it ceases to be a good metric. Forcing strict quotas on software features created or support tickets closed inevitably incentivizes employees to optimize for volume over quality, entirely breaking organizational value creation."
   },
   {
-    "id": 8,
+    "id": 7,
     "title": "The Endowment Effect in M&A Valuation",
-    "content": "Acquiring companies systematically overpay because they anchor their valuations to sunk costs and emotional attachment to 'transformational deals.' Independent valuators consistently discover the acquired company is worth 20-30% less than what was negotiated—a classic case of the endowment effect distorting rational pricing."
+    "content": "Acquiring companies systematically overpay because they anchor their valuations to sunk costs and emotional attachment to 'transformational deals'. Independent valuators consistently discover the acquired company is worth 20-30% less than what was negotiated — a classic case of the endowment effect distorting rational pricing."
   },
   {
-    "id": 9,
+    "id": 8,
     "title": "Hypothesis Testing in Market Research",
     "content": "Confirmation bias destroys market research validity. Teams unconsciously design surveys and focus groups to validate predetermined hypotheses rather than challenge them. Truly useful research requires adversarial testing: actively seek data that contradicts your assumptions."
   },
   {
-    "id": 10,
+    "id": 9,
     "title": "The Sarbanes-Oxley Section 404 Trap",
     "content": "Excessive internal control documentation creates compliance theater rather than actual risk mitigation. Companies spending millions on SOX compliance often discover the real operational failures hide in processes nobody thought to audit because they were considered 'too obvious' to scrutinize."
   },
   {
-    "id": 11,
-    "title": "Attribution Bias in Financial Analysis",
-    "content": "Analysts overweight internal factors (management skill) while underweighting external ones (industry tailwinds, competitor stumbles) when explaining corporate performance. This cognitive error leads to catastrophic investment misjudgments and inflated expectations for leadership transitions."
-  },
-  {
-    "id": 12,
+    "id": 10,
     "title": "The Certainty Illusion in Forecasting",
     "content": "Finance teams create decade-long strategic projections with false precision, claiming 8.3% annual growth when they should be thinking in ranges: 5-11% depending on macro scenarios. Accepting forecast uncertainty actually improves decision-making more than false precision ever could."
   },
   {
-    "id": 13,
+    "id": 11,
     "title": "Porter's Five Forces vs. Dynamic Markets",
     "content": "Porter's Five Forces remains useful for static industry analysis but catastrophically fails in disrupted markets. Platform businesses, network effects, and zero-marginal-cost dynamics reshape competitive power in ways the Five Forces framework cannot capture. Update your mental models continuously."
   },
   {
-    "id": 14,
+    "id": 12,
     "title": "The NPV Illusion Under Uncertainty",
     "content": "Traditional Net Present Value calculations assume perfect foresight about future cash flows. Real strategic value often lies in option value and flexibility—the ability to pivot, abandon, or scale based on new information. Underestimating embedded optionality destroys valuations."
   },
   {
-    "id": 15,
+    "id": 13,
     "title": "Survivorship Bias in Competitive Analysis",
     "content": "Studying successful competitors teaches you almost nothing useful. You're learning from the winners who made risky bets that happened to work, but you're ignoring the hundred failed companies who made identical bets and lost. Analyze failures, not just winners."
   },
   {
-    "id": 16,
+    "id": 14,
     "title": "The 80/20 Rule Misapplication",
     "content": "Pareto's principle—80% of results from 20% of effort—is often inverted in practice. Teams obsess over the 20% that's easy to measure and quantify while ignoring the 80% of value creation that's harder to track. Question which activities truly drive outcomes."
   },
   {
-    "id": 17,
-    "title": "Illusion of Control in Budget Forecasting",
-    "content": "Finance leaders overestimate their ability to forecast next year's budget with precision, creating rigid spending plans that become obsolete within months. Agile allocation frameworks outperform rigid annual budgets because they acknowledge inherent market unpredictability."
-  },
-  {
-    "id": 18,
+    "id": 15,
     "title": "The Anchoring Trap in Salary Negotiations",
-    "content": "The first number mentioned in any negotiation—whether salary, contract price, or acquisition bid—becomes the invisible anchor that constrains all subsequent offers. Understanding this principle lets you control outcomes by strategically setting the initial anchor point."
+    "content": "The first number mentioned in any negotiation — whether salary, contract price, or acquisition bid - becomes the invisible anchor that constrains all subsequent offers. Understanding this principle lets you control outcomes by strategically setting the initial anchor point."
   },
   {
-    "id": 19,
+    "id": 16,
     "title": "Data Aggregation & Simpson's Paradox",
     "content": "Trends that exist in disaggregated data can completely reverse when data is aggregated. A product line might be performing worse than competitors in every single demographic segment, yet appear superior when all segments are pooled together. Always disaggregate before concluding."
   },
   {
-    "id": 20,
+    "id": 17,
     "title": "The Dunning-Kruger Effect in Strategic Planning",
     "content": "Teams with limited analytical experience often express maximum confidence in flawed strategic plans, while true experts hedge their forecasts with appropriate uncertainty. Recognize that high confidence from non-experts should lower your trust, not increase it."
   },
   {
-    "id": 21,
+    "id": 18,
     "title": "The Winner's Curse in Auctions & Bidding",
     "content": "The highest bidder in a competitive auction is statistically the person who overestimated value the most. Corporate acquisition bidding wars exemplify this: the 'winning' bidder often overpays by exactly the margin by which their valuation was most optimistic. Discipline yourself to walk away."
   },
   {
-    "id": 22,
+    "id": 19,
     "title": "Regression to the Mean vs. Causal Intervention",
-    "content": "After an exceptionally bad quarter, performance naturally improves simply due to statistical regression—yet leadership often credits a new initiative. Distinguish between mean reversion and actual causal impact by establishing control groups and baseline trends before intervention."
+    "content": "After an exceptionally bad quarter, performance naturally improves simply due to statistical regression — yet leadership often credits a new initiative. Distinguish between mean reversion and actual causal impact by establishing control groups and baseline trends before intervention."
   },
   {
-    "id": 23,
-    "title": "The Recency Bias in Market Timing",
-    "content": "Recent events disproportionately influence decision-making. After a market crash, investors flood into bonds; after a bull run, they chase equities. Neither decision reflects forward-looking valuation. Develop systematic allocation rules independent of recent performance to combat recency bias."
+    "id": 20,
+    "title": "The Recency Bias in Strategic Decision-Making",
+    "content": "Recent events disproportionately influence decision-making. After a competitor's launch fails spectacularly, companies avoid similar innovations entirely; after a successful product launch, they rush to replicate it without strategic analysis. Neither decision reflects actual market conditions or opportunity. Develop systematic allocation rules independent of recent performance to combat recency bias."
   },
   {
-    "id": 24,
+    "id": 21,
     "title": "Cannibalization Strategy vs. Market Defense",
-    "content": "Launching a product that cannibalizes existing revenue appears irrational—until you realize competitors will do it anyway. Market leaders who refuse to cannibalize often surrender share to disruptors. Intentional cannibalization lets you control which product wins rather than losing to external competition."
+    "content": "Launching a product that cannibalizes existing revenue appears irrational until you realize competitors will do it anyway. Market leaders who refuse to cannibalize often surrender share to disruptors. Intentional cannibalization lets you control which product wins rather than losing to external competition."
   },
   {
-    "id": 25,
+    "id": 22,
     "title": "The Sunk Cost Fallacy in Project Continuation",
     "content": "Money already spent cannot affect future decisions. Yet teams routinely extend failing projects because of accumulated investment: 'We've already spent $2M, so we can't stop now.' This reasoning is backwards. The $2M is gone; only future costs and benefits matter."
   },
   {
-    "id": 26,
+    "id": 23,
     "title": "Opportunity Cost in Resource Allocation",
     "content": "Explicitly quantify what you're *not* doing. When a team spends 500 hours on Project A, the opportunity cost is Project B never launching. Organizations that fail to measure opportunity costs systematically build portfolios of mediocre projects instead of concentrating on high-impact initiatives."
   },
   {
-    "id": 27,
+    "id": 24,
     "title": "Earned Value Management vs. Burn Rate",
     "content": "Tracking project spend doesn't tell you if you're on schedule. Earned Value Management links spending to actual deliverables completed. A project burning budget on time but delivering zero outputs is a disaster disguised as efficiency. Always measure progress, not just expenditure."
   },
   {
-    "id": 28,
+    "id": 25,
     "title": "The Planning Fallacy in Project Estimation",
     "content": "Teams systematically underestimate timelines by 30-40%. The planning fallacy occurs because planners focus on task-specific details while ignoring historical base rates of delay. Improve estimates by anchoring to past project data, not optimistic timelines."
   },
   {
-    "id": 29,
+    "id": 26,
     "title": "Benford's Law & Fraud Detection",
     "content": "In naturally occurring datasets, the digit '1' appears as the first digit ~30% of the time, not 11% as random distribution would suggest. Fabricated data rarely follows Benford's Law. Auditors use this principle to flag suspicious expense reports and financial statements for deeper investigation."
   },
   {
-    "id": 30,
+    "id": 27,
     "title": "The Clustering Illusion in Performance Metrics",
     "content": "Random data naturally clusters. A sales rep's performance might spike for two months purely by chance, yet management implements their 'winning' strategy company-wide. Distinguish signal from noise using statistical significance tests; don't react to random fluctuations."
   },
   {
-    "id": 31,
+    "id": 28,
     "title": "Capital Structure Arbitrage & Tax Inefficiency",
     "content": "Two companies with identical cash flows but different debt-to-equity ratios have different values. Tax laws create arbitrage opportunities: one structure is tax-efficient while another is not. Sophisticated finance teams exploit these differences; rigid companies miss millions annually."
   },
   {
-    "id": 32,
+    "id": 29,
     "title": "The Value of Information in Decision-Making",
     "content": "Perfect information is expensive; imperfect information is cheap. Before paying for market research, calculate the Value of Perfect Information (VPI): how much could it change your decision? If VPI is $100K but research costs $300K, walk away."
   },
   {
-    "id": 33,
+    "id": 30,
     "title": "Loss Aversion in Risk Appetite Statements",
-    "content": "Humans experience loss more intensely than equivalent gain—roughly 2x. Organizational risk policies that claim 50/50 upside/downside tolerance are delusional. Real behavior shows ~2:1 loss aversion. Design incentive structures acknowledging this hardwired bias, not fighting it."
+    "content": "Humans experience loss more intensely than equivalent gain — roughly 2x. Organizational risk policies that claim 50/50 upside/downside tolerance are delusional. Real behavior shows ~2:1 loss aversion. Design incentive structures acknowledging this hardwired bias, not fighting it."
   },
   {
-    "id": 34,
+    "id": 31,
     "title": "The Overfitting Trap in Predictive Analytics",
     "content": "A model with 1,000 variables fit to 100 data points will memorize noise rather than discover truth. Overfitting produces spectacular performance on historical data but catastrophic results prospectively. Regularization, cross-validation, and holdout test sets are non-negotiable disciplines."
   },
   {
-    "id": 35,
+    "id": 32,
     "title": "Correlation vs. Causation in Business Metrics",
-    "content": "Ice cream sales correlate with drowning deaths—both rise in summer. Correlation is everywhere; causation is rare. When correlation appears in business data, consider: is there a confounder? Reverse causality? Pure chance? Test causal relationships experimentally, not correlatively."
+    "content": "Ice cream sales correlate with drowning deaths — both rise in summer. Correlation is everywhere; causation is rare. When correlation appears in business data, consider: is there a confounder? Reverse causality? Pure chance? Test causal relationships experimentally, not correlatively."
   },
   {
-    "id": 36,
-    "title": "The Irrelevance of Sunk Costs (Redux)",
-    "content": "A lease signed five years ago is irrelevant to today's location decision. A workforce trained in outdated skills shouldn't anchor your technology choices. Executives who say 'we've already invested so much' are conflating past costs with future value. Make decisions prospectively."
-  },
-  {
-    "id": 37,
+    "id": 33,
     "title": "Halo Effect in Executive Hiring",
     "content": "A CEO succeeds at Company A and we assume they'll succeed at Company B. This halo effect ignores industry differences, team quality, market cycles, and luck. Hire based on required competencies, not past prestige. Many 'legendary' executives underperform outside their original context."
   },
   {
-    "id": 38,
+    "id": 34,
     "title": "The Illusion of Asymmetric Information",
     "content": "Investment professionals believe they possess non-public insights giving them an edge. Decades of data show they underperform passive indices. The 'information advantage' often is an illusion; transaction costs and behavioral biases eliminate any informational edge."
   },
   {
-    "id": 39,
+    "id": 35,
     "title": "Net Working Capital Traps in Growth",
     "content": "Fast-growing companies can become cash-negative despite profitability. Growing revenue 50% requires 50% more inventory and receivables. Unprepared CFOs watch their 'profitable' company run out of cash. Model working capital requirements explicitly; growth that isn't financed is unsustainable."
   },
   {
-    "id": 40,
+    "id": 36,
     "title": "Break-Even Analysis & Operating Leverage",
     "content": "Companies with high fixed costs have high operating leverage: a 10% revenue increase might drive 30% profit increase. But reversals work the same way: 10% revenue decline causes 30% profit decline. Understand your break-even point and the volatility it creates."
   },
   {
-    "id": 41,
+    "id": 37,
     "title": "The Danger of Benchmarking Against Competitors",
     "content": "Benchmarking competitors' metrics—cost per unit, employee productivity, inventory turns—creates convergence, not differentiation. When everyone optimizes the same benchmark, no competitive advantage emerges. Find metrics that competitors ignore; those are where differentiation lives."
   },
   {
-    "id": 42,
+    "id": 38,
     "title": "Discount Rate Selection in DCF Models",
     "content": "A 1% difference in discount rate can swing a valuation by 20-30%. Yet many finance teams treat discount rate selection as a bureaucratic afterthought. The rate should reflect project risk. Unsystematic risk shouldn't be priced in (that's what diversification is for); systematic risk should."
   },
   {
-    "id": 43,
+    "id": 39,
     "title": "The Base Rate Fallacy in Risk Assessment",
     "content": "If 1 in 1,000 startups become unicorns, and your company has 'superior' management, you might estimate 2 in 1,000 odds. But you're probably overweighting your unique qualities while ignoring base rates. Respect the base rate; it contains aggregated wisdom."
   },
   {
-    "id": 44,
+    "id": 40,
     "title": "Customer Acquisition Cost vs. Lifetime Value",
     "content": "A SaaS company spending $1,000 to acquire a customer with $500 lifetime value is bankrupt in slow motion. Yet chasing growth vanity metrics drives teams to ignore unit economics. Build a model: CAC, churn rate, LTV. If LTV < 3x CAC, your business model is broken."
   },
   {
-    "id": 45,
+    "id": 41,
     "title": "The Hedging Mistake in Commodity Risk",
     "content": "A manufacturer buys oil futures to 'protect' against price spikes, then loses money when prices fall. Perfect hedges eliminate both upside and downside. Partial hedging—protecting 50% or 70%—lets you preserve some optionality while reducing catastrophic risk."
   },
   {
-    "id": 46,
+    "id": 42,
     "title": "The Veil of Ignorance in Fair Pricing",
     "content": "Imagine you don't know which side of a deal you'll be on. Would you agree to the proposed terms? This 'veil of ignorance' test surfaces unfair pricing. If terms would horrify you as the seller but delight you as the buyer, they're extractive, not fair."
   },
   {
-    "id": 47,
+    "id": 43,
     "title": "Elasticity of Demand & Price Optimization",
     "content": "Raising prices 5% might reduce volume only 2%—netting higher revenue. But most companies default to cost-plus pricing, ignoring demand elasticity. Systematically test price sensitivity. In inelastic markets, companies leave money on the table daily."
   },
   {
-    "id": 48,
+    "id": 44,
     "title": "The Cost of Delay in Product Development",
     "content": "Shipping a good product now beats shipping a perfect product later. Each day of delay costs you customers lost to competitors, market window closure, and technology obsolescence. Quantify the Cost of Delay; it usually justifies shipping with known imperfections."
   },
   {
-    "id": 49,
+    "id": 45,
     "title": "Stakeholder Analysis & Incentive Misalignment",
     "content": "Your CFO is incentivized to minimize short-term volatility; your sales team is incentivized to maximize quarterly revenue. These incentives conflict. Map all stakeholders, their metrics, and their conflicts explicitly. Misalignment hidden in organizational silos causes strategy failure."
   },
   {
-    "id": 50,
+    "id": 46,
     "title": "The Waterfall Problem in Forecasting",
     "content": "Sequential planning (Finance sets budget → Operations plans headcount → Marketing plans spend) amplifies errors. A 10% budget error becomes 15% in operations, then 22% in marketing. Shorter feedback loops reduce error propagation; long waterfalls compound mistakes."
   },
   {
-    "id": 51,
+    "id": 47,
     "title": "Statistical Power in A/B Testing",
     "content": "Running an A/B test with insufficient sample size creates false negatives: real differences go undetected. Calculate required sample size *before* starting. Running tests until you achieve significance (p-hacking) is scientific fraud—even if well-intentioned."
   },
   {
-    "id": 52,
+    "id": 48,
     "title": "The Tyranny of the AND in Strategy",
     "content": "'We want to be cheap AND premium, fast AND deliberate, innovative AND stable.' Strategy is choices—choosing what to do means choosing what not to do. Companies claiming to do everything usually excel at nothing. Make tradeoffs explicit."
   },
   {
-    "id": 53,
+    "id": 49,
     "title": "Organizational Debt & Technical Debt Equivalence",
     "content": "Shipping code without documentation or tests creates technical debt. Similarly, hiring without clear roles or promoting without readiness creates organizational debt. Both feel productive short-term; both compound into crises. Pay down regularly or face collapse."
   },
   {
-    "id": 54,
+    "id": 50,
     "title": "The Lindy Effect & Business Models",
     "content": "Ideas that have existed for centuries (craft, reputation, networks) will likely exist for centuries more. Business models built on novelty—'we're disrupting X'—often vanish when the novelty wears off. Durable models exploit timeless principles; temporary models exploit information asymmetries."
   },
   {
-    "id": 55,
+    "id": 51,
     "title": "The Prisoner's Dilemma in Pricing Wars",
     "content": "Two competitors in a price war both lose. Yet individually, each feels forced to match the other's cuts. Breaking the cycle requires either collusion (illegal), differentiation (hard), or resignation to low margins. Recognize when you're trapped and escape through innovation or exit."
   },
   {
-    "id": 56,
+    "id": 52,
     "title": "Scenario Analysis vs. Point Forecasts",
     "content": "'Sales will be $50M next year' is a fantasy; 'Sales will likely be $40-60M, but could range $20-80M in extreme scenarios' is honest. Build strategic plans resilient across scenarios, not optimized for one predicted point. Robust strategy outperforms fragile strategy."
   },
   {
-    "id": 57,
+    "id": 53,
     "title": "The Rule of 72 & Compounding Effects",
     "content": "Dividing 72 by a growth rate reveals doubling time: 2% growth doubles in 36 years, 7% in 10 years. Small compounding differences create massive long-term divergence. A 1% improvement in annual efficiency, compounded over decades, transforms industries. Never underestimate compound effects."
   }
