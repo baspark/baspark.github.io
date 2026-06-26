@@ -17,7 +17,7 @@ export default function RootLayout({
         <header className="border-b border-zinc-800 bg-zinc-950 sticky top-0 z-50">
           <nav className="max-w-2xl mx-auto px-6 py-6 flex items-center justify-between">
             <Link href="/" className="text-lg font-light tracking-tight hover:text-zinc-300 transition-colors">
-              baspark
+              Business Analyst Spark
             </Link>
             <ul className="flex items-center gap-8">
               <li>

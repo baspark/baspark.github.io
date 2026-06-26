@@ -9,7 +9,7 @@ export default function InfoPage() {
         <section className="mb-12">
           <h2 className="text-xl font-light text-zinc-100 mb-4">Creator</h2>
           <p className="text-zinc-300 leading-relaxed font-light">
-            <strong>Rafael Rodrigues Troiani</strong> (Rafa Tro) is a Business Analyst and content creator passionate about bridging the gap between business strategy, data science, and financial analysis. Through daily insights and educational content, Rafael shares practical knowledge about core competencies, strategic decision-making, and analytical rigor.
+            <strong>Rafael Rodrigues Troiani</strong> is a Business Analyst and content creator passionate about bridging the gap between business strategy, data science, and financial analysis. Through daily insights and educational content, Troiani shares practical knowledge about core competencies, strategic decision-making, and analytical rigor.
           </p>
         </section>
 

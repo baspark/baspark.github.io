@@ -19,9 +19,6 @@ export default function Home() {
         <h1 className="text-5xl font-light tracking-tight text-zinc-100 mb-2">
           Daily Insight
         </h1>
-        <p className="text-sm text-zinc-500 uppercase tracking-widest">
-          Business Analysis • Data Science • Strategy
-        </p>
       </div>
       <DailyInsight message={todayMessage} />
     </div>
