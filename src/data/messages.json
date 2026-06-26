@@ -256,11 +256,6 @@
   },
   {
     "id": 52,
-    "title": "Scenario Analysis vs. Point Forecasts",
-    "content": "'Sales will be $50M next year' is a fantasy; 'Sales will likely be $40-60M, but could range $20-80M in extreme scenarios' is honest. Build strategic plans resilient across scenarios, not optimized for one predicted point. Robust strategy outperforms fragile strategy."
-  },
-  {
-    "id": 53,
     "title": "The Rule of 72 & Compounding Effects",
     "content": "Dividing 72 by a growth rate reveals doubling time: 2% growth doubles in 36 years, 7% in 10 years. Small compounding differences create massive long-term divergence. A 1% improvement in annual efficiency, compounded over decades, transforms industries. Never underestimate compound effects."
   }
