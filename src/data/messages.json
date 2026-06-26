@@ -226,71 +226,61 @@
   },
   {
     "id": 46,
-    "title": "Tax Bracket Stacking in Personal Finance",
-    "content": "A bonus pushing you into a higher tax bracket doesn't make that entire year's income taxable at the new rate—only the incremental income. Confusing marginal rates with effective rates leads to irrational decisions like refusing promotions. Understand the math."
-  },
-  {
-    "id": 47,
     "title": "The Veil of Ignorance in Fair Pricing",
     "content": "Imagine you don't know which side of a deal you'll be on. Would you agree to the proposed terms? This 'veil of ignorance' test surfaces unfair pricing. If terms would horrify you as the seller but delight you as the buyer, they're extractive, not fair."
   },
   {
-    "id": 48,
+    "id": 47,
     "title": "Elasticity of Demand & Price Optimization",
     "content": "Raising prices 5% might reduce volume only 2%—netting higher revenue. But most companies default to cost-plus pricing, ignoring demand elasticity. Systematically test price sensitivity. In inelastic markets, companies leave money on the table daily."
   },
   {
-    "id": 49,
+    "id": 48,
     "title": "The Cost of Delay in Product Development",
     "content": "Shipping a good product now beats shipping a perfect product later. Each day of delay costs you customers lost to competitors, market window closure, and technology obsolescence. Quantify the Cost of Delay; it usually justifies shipping with known imperfections."
   },
   {
-    "id": 50,
+    "id": 49,
     "title": "Stakeholder Analysis & Incentive Misalignment",
     "content": "Your CFO is incentivized to minimize short-term volatility; your sales team is incentivized to maximize quarterly revenue. These incentives conflict. Map all stakeholders, their metrics, and their conflicts explicitly. Misalignment hidden in organizational silos causes strategy failure."
   },
   {
-    "id": 51,
+    "id": 50,
     "title": "The Waterfall Problem in Forecasting",
     "content": "Sequential planning (Finance sets budget → Operations plans headcount → Marketing plans spend) amplifies errors. A 10% budget error becomes 15% in operations, then 22% in marketing. Shorter feedback loops reduce error propagation; long waterfalls compound mistakes."
   },
   {
-    "id": 52,
+    "id": 51,
     "title": "Statistical Power in A/B Testing",
     "content": "Running an A/B test with insufficient sample size creates false negatives: real differences go undetected. Calculate required sample size *before* starting. Running tests until you achieve significance (p-hacking) is scientific fraud—even if well-intentioned."
   },
   {
-    "id": 53,
+    "id": 52,
     "title": "The Tyranny of the AND in Strategy",
     "content": "'We want to be cheap AND premium, fast AND deliberate, innovative AND stable.' Strategy is choices—choosing what to do means choosing what not to do. Companies claiming to do everything usually excel at nothing. Make tradeoffs explicit."
   },
   {
-    "id": 54,
+    "id": 53,
     "title": "Organizational Debt & Technical Debt Equivalence",
     "content": "Shipping code without documentation or tests creates technical debt. Similarly, hiring without clear roles or promoting without readiness creates organizational debt. Both feel productive short-term; both compound into crises. Pay down regularly or face collapse."
   },
   {
-    "id": 55,
+    "id": 54,
     "title": "The Lindy Effect & Business Models",
     "content": "Ideas that have existed for centuries (craft, reputation, networks) will likely exist for centuries more. Business models built on novelty—'we're disrupting X'—often vanish when the novelty wears off. Durable models exploit timeless principles; temporary models exploit information asymmetries."
   },
   {
-    "id": 56,
+    "id": 55,
     "title": "The Prisoner's Dilemma in Pricing Wars",
     "content": "Two competitors in a price war both lose. Yet individually, each feels forced to match the other's cuts. Breaking the cycle requires either collusion (illegal), differentiation (hard), or resignation to low margins. Recognize when you're trapped and escape through innovation or exit."
   },
   {
-    "id": 58,
-    "title": "The Disposition Effect in Portfolio Management",
-    "content": "Investors sell winners too early to lock in gains, but hold losers too long hoping for recovery. This 'disposition effect' destroys returns. Override this bias by rebalancing systematically, not emotionally. Let your winners run; cut losers without hesitation."
-  },
-  {
-    "id": 59,
+    "id": 56,
     "title": "Scenario Analysis vs. Point Forecasts",
     "content": "'Sales will be $50M next year' is a fantasy; 'Sales will likely be $40-60M, but could range $20-80M in extreme scenarios' is honest. Build strategic plans resilient across scenarios, not optimized for one predicted point. Robust strategy outperforms fragile strategy."
   },
   {
-    "id": 60,
+    "id": 57,
     "title": "The Rule of 72 & Compounding Effects",
     "content": "Dividing 72 by a growth rate reveals doubling time: 2% growth doubles in 36 years, 7% in 10 years. Small compounding differences create massive long-term divergence. A 1% improvement in annual efficiency, compounded over decades, transforms industries. Never underestimate compound effects."
   }
