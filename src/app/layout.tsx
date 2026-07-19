@@ -3,7 +3,7 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 
 const siteName = 'Business Analyst Spark';
-const faviconPath = '/favicon.png';
+const faviconPath = '/favicon.svg';
 const siteDescription = 'Daily business analysis, finance, data science, and strategic insight for professionals who want sharper decisions and clearer reasoning.';
 const siteUrl = 'https://businessanalystspark.com';
 
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
     },
   },
   icons: {
-    icon: [{ url: faviconPath, type: 'image/png' }],
+    icon: [{ url: faviconPath, type: 'image/svg+xml' }],
     apple: [{ url: faviconPath }],
   },
 };
