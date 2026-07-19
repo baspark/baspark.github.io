@@ -1,9 +1,74 @@
 import './globals.css';
 import Link from 'next/link';
+import type { Metadata } from 'next';
 
-export const metadata = {
-  title: 'Business Analyst Spark',
-  description: 'Daily insights on Business Analysis, Data Science, and Strategy',
+const siteName = 'Business Analyst Spark';
+const faviconPath = '/favicon.png';
+const siteDescription = 'Daily business analysis, finance, data science, and strategic insight for professionals who want sharper decisions and clearer reasoning.';
+const siteUrl = 'https://businessanalystspark.com';
+
+export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl),
+  title: {
+    default: `${siteName} | Daily Business Analysis & Finance Insights`,
+    template: `%s | ${siteName}`,
+  },
+  description: siteDescription,
+  keywords: [
+    'business analysis',
+    'data analysis',
+    'finance insight',
+    'corporate finance',
+    'strategic thinking',
+    'data science',
+    'accounting',
+    'analytical reasoning',
+    'daily insights',
+  ],
+  authors: [{ name: 'Rafael Rodrigues Troiani' }],
+  creator: 'Rafael Rodrigues Troiani',
+  publisher: siteName,
+  alternates: {
+    canonical: '/',
+  },
+  openGraph: {
+    title: `${siteName} | Daily Business Analysis & Finance Insights`,
+    description: siteDescription,
+    url: siteUrl,
+    siteName,
+    type: 'website',
+    locale: 'en_US',
+    images: [
+      {
+        url: faviconPath,
+        width: 512,
+        height: 512,
+        alt: `${siteName} favicon`,
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: `${siteName} | Daily Business Analysis & Finance Insights`,
+    description: siteDescription,
+    creator: '@rafaelrtroiani',
+    images: [faviconPath],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  icons: {
+    icon: [{ url: faviconPath, type: 'image/png' }],
+    apple: [{ url: faviconPath }],
+  },
 };
 
 export default function RootLayout({
