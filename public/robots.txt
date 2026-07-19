@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://businessanalystspark.com/sitemap.xml
+Sitemap: https://baspark.github.io/sitemap.xml

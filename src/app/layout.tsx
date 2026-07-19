@@ -5,7 +5,7 @@ import type { Metadata } from 'next';
 const siteName = 'Business Analyst Spark';
 const faviconPath = '/favicon.svg';
 const siteDescription = 'Daily business analysis, finance, data science, and strategic insight for professionals who want sharper decisions and clearer reasoning.';
-const siteUrl = 'https://businessanalystspark.com';
+const siteUrl = 'https://baspark.github.io';
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
