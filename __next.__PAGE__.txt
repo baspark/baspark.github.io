@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[20507,["/_next/static/chunks/3rdqn8rx95pw7.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1jvh85xn80jzf.js"],"default"]
+3:I[97367,["/_next/static/chunks/3rdqn8rx95pw7.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen flex flex-col items-center justify-center px-6 py-16","children":[["$","div",null,{"className":"mb-12 text-center","children":["$","h1",null,{"className":"text-5xl font-light tracking-tight text-zinc-100 mb-2","children":"Daily Insight"}]}],["$","$L2",null,{"message":{"id":46,"title":"The Waterfall Problem in Forecasting","content":"Sequential planning (Finance sets budget → Operations plans headcount → Marketing plans spend) amplifies errors. A 10% budget error becomes 15% in operations, then 22% in marketing. Shorter feedback loops reduce error propagation; long waterfalls compound mistakes."}}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1jvh85xn80jzf.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"w0I3P-SuGbtF3xkda1pag"}
+5:null
