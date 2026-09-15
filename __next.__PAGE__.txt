@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[20507,["/_next/static/chunks/3rdqn8rx95pw7.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1jvh85xn80jzf.js"],"default"]
+3:I[97367,["/_next/static/chunks/3rdqn8rx95pw7.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen flex flex-col items-center justify-center px-6 py-16","children":[["$","div",null,{"className":"mb-12 text-center","children":["$","h1",null,{"className":"text-5xl font-light tracking-tight text-zinc-100 mb-2","children":"Daily Insight"}]}],["$","$L2",null,{"message":{"id":50,"title":"The Lindy Effect & Business Models","content":"Ideas that have existed for centuries (craft, reputation, networks) will likely exist for centuries more. Business models built on novelty—'we're disrupting X'—often vanish when the novelty wears off. Durable models exploit timeless principles; temporary models exploit information asymmetries."}}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1jvh85xn80jzf.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jldLw0phIGxTWKP52eA48"}
+5:null
