@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[20507,["/_next/static/chunks/3rdqn8rx95pw7.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1jvh85xn80jzf.js"],"default"]
+3:I[97367,["/_next/static/chunks/3rdqn8rx95pw7.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen flex flex-col items-center justify-center px-6 py-16","children":[["$","div",null,{"className":"mb-12 text-center","children":["$","h1",null,{"className":"text-5xl font-light tracking-tight text-zinc-100 mb-2","children":"Daily Insight"}]}],["$","$L2",null,{"message":{"id":2,"title":"The Core Competency Paradox","content":"A firm's greatest strength can easily become its ultimate liability. Core capabilities often rigidify into core rigidities when market conditions shift unexpectedly. True strategic resilience requires continuous micro-experimentation, keeping organizational knowledge fluid rather than static."}}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1jvh85xn80jzf.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZhG7VA4-2sWGZ2VCA_K9c"}
+5:null
